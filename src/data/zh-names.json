@@ -1,0 +1,3376 @@
+{
+  "moves": [
+    {
+      "en": "Accelerock",
+      "zh": "冲岩"
+    },
+    {
+      "en": "Acid Armor",
+      "zh": "溶化"
+    },
+    {
+      "en": "Acid Spray",
+      "zh": "酸液炸弹"
+    },
+    {
+      "en": "Acrobatics",
+      "zh": "杂技"
+    },
+    {
+      "en": "Acupressure",
+      "zh": "点穴"
+    },
+    {
+      "en": "Aerial Ace",
+      "zh": "燕返"
+    },
+    {
+      "en": "After You",
+      "zh": "您先请"
+    },
+    {
+      "en": "Agility",
+      "zh": "高速移动"
+    },
+    {
+      "en": "Air Cutter",
+      "zh": "空气利刃"
+    },
+    {
+      "en": "Air Slash",
+      "zh": "空气斩"
+    },
+    {
+      "en": "Alluring Voice",
+      "zh": "魅诱之声"
+    },
+    {
+      "en": "Ally Switch",
+      "zh": "交换场地"
+    },
+    {
+      "en": "Amnesia",
+      "zh": "瞬间失忆"
+    },
+    {
+      "en": "Ancient Power",
+      "zh": "原始之力"
+    },
+    {
+      "en": "Apple Acid",
+      "zh": "苹果酸"
+    },
+    {
+      "en": "Aqua Cutter",
+      "zh": "水波刀"
+    },
+    {
+      "en": "Aqua Jet",
+      "zh": "水流喷射"
+    },
+    {
+      "en": "Aqua Ring",
+      "zh": "水流环"
+    },
+    {
+      "en": "Aqua Step",
+      "zh": "流水旋舞"
+    },
+    {
+      "en": "Aqua Tail",
+      "zh": "水流尾"
+    },
+    {
+      "en": "Armor Cannon",
+      "zh": "铠农炮"
+    },
+    {
+      "en": "Aromatic Mist",
+      "zh": "芳香薄雾"
+    },
+    {
+      "en": "Assurance",
+      "zh": "恶意追击"
+    },
+    {
+      "en": "Attract",
+      "zh": "迷人"
+    },
+    {
+      "en": "Aura Sphere",
+      "zh": "波导弹"
+    },
+    {
+      "en": "Aura Wheel",
+      "zh": "气场轮"
+    },
+    {
+      "en": "Aurora Veil",
+      "zh": "极光幕"
+    },
+    {
+      "en": "Avalanche",
+      "zh": "雪崩"
+    },
+    {
+      "en": "Axe Kick",
+      "zh": "下压踢"
+    },
+    {
+      "en": "Baby-Doll Eyes",
+      "zh": "圆瞳"
+    },
+    {
+      "en": "Baneful Bunker",
+      "zh": "碉堡"
+    },
+    {
+      "en": "Barb Barrage",
+      "zh": "毒千针"
+    },
+    {
+      "en": "Baton Pass",
+      "zh": "接棒"
+    },
+    {
+      "en": "Beak Blast",
+      "zh": "鸟嘴加农炮"
+    },
+    {
+      "en": "Beat Up",
+      "zh": "围攻"
+    },
+    {
+      "en": "Belch",
+      "zh": "打嗝"
+    },
+    {
+      "en": "Belly Drum",
+      "zh": "腹鼓"
+    },
+    {
+      "en": "Bind",
+      "zh": "绑紧"
+    },
+    {
+      "en": "Bite",
+      "zh": "咬住"
+    },
+    {
+      "en": "Bitter Blade",
+      "zh": "悔念剑"
+    },
+    {
+      "en": "Bitter Malice",
+      "zh": "冤冤相报"
+    },
+    {
+      "en": "Blast Burn",
+      "zh": "爆炸烈焰"
+    },
+    {
+      "en": "Blaze Kick",
+      "zh": "火焰踢"
+    },
+    {
+      "en": "Blizzard",
+      "zh": "暴风雪"
+    },
+    {
+      "en": "Block",
+      "zh": "挡路"
+    },
+    {
+      "en": "Body Press",
+      "zh": "扑击"
+    },
+    {
+      "en": "Body Slam",
+      "zh": "泰山压顶"
+    },
+    {
+      "en": "Bone Rush",
+      "zh": "骨棒乱打"
+    },
+    {
+      "en": "Boomburst",
+      "zh": "爆音波"
+    },
+    {
+      "en": "Bounce",
+      "zh": "弹跳"
+    },
+    {
+      "en": "Brave Bird",
+      "zh": "勇鸟猛攻"
+    },
+    {
+      "en": "Breaking Swipe",
+      "zh": "广域破坏"
+    },
+    {
+      "en": "Brick Break",
+      "zh": "劈瓦"
+    },
+    {
+      "en": "Brutal Swing",
+      "zh": "狂舞挥打"
+    },
+    {
+      "en": "Bug Bite",
+      "zh": "虫咬"
+    },
+    {
+      "en": "Bug Buzz",
+      "zh": "虫鸣"
+    },
+    {
+      "en": "Bulk Up",
+      "zh": "健美"
+    },
+    {
+      "en": "Bulldoze",
+      "zh": "重踏"
+    },
+    {
+      "en": "Bullet Punch",
+      "zh": "子弹拳"
+    },
+    {
+      "en": "Bullet Seed",
+      "zh": "种子机关枪"
+    },
+    {
+      "en": "Burn Up",
+      "zh": "燃尽"
+    },
+    {
+      "en": "Burning Jealousy",
+      "zh": "妒火"
+    },
+    {
+      "en": "Calm Mind",
+      "zh": "冥想"
+    },
+    {
+      "en": "Ceaseless Edge",
+      "zh": "秘剑・千重涛"
+    },
+    {
+      "en": "Charge",
+      "zh": "充电"
+    },
+    {
+      "en": "Charge Beam",
+      "zh": "充电光束"
+    },
+    {
+      "en": "Charm",
+      "zh": "撒娇"
+    },
+    {
+      "en": "Chilling Water",
+      "zh": "泼冷水"
+    },
+    {
+      "en": "Chilly Reception",
+      "zh": "冷笑话"
+    },
+    {
+      "en": "Circle Throw",
+      "zh": "巴投"
+    },
+    {
+      "en": "Clanging Scales",
+      "zh": "鳞片噪音"
+    },
+    {
+      "en": "Clangorous Soul",
+      "zh": "魂舞烈音爆"
+    },
+    {
+      "en": "Clear Smog",
+      "zh": "清除之烟"
+    },
+    {
+      "en": "Close Combat",
+      "zh": "近身战"
+    },
+    {
+      "en": "Coaching",
+      "zh": "指导"
+    },
+    {
+      "en": "Coil",
+      "zh": "盘蜷"
+    },
+    {
+      "en": "Comeuppance",
+      "zh": "复仇"
+    },
+    {
+      "en": "Confuse Ray",
+      "zh": "奇异之光"
+    },
+    {
+      "en": "Copycat",
+      "zh": "仿效"
+    },
+    {
+      "en": "Corrosive Gas",
+      "zh": "腐蚀气体"
+    },
+    {
+      "en": "Cosmic Power",
+      "zh": "宇宙力量"
+    },
+    {
+      "en": "Cotton Guard",
+      "zh": "棉花防守"
+    },
+    {
+      "en": "Cotton Spore",
+      "zh": "棉孢子"
+    },
+    {
+      "en": "Counter",
+      "zh": "双倍奉还"
+    },
+    {
+      "en": "Court Change",
+      "zh": "换场"
+    },
+    {
+      "en": "Covet",
+      "zh": "渴望"
+    },
+    {
+      "en": "Crabhammer",
+      "zh": "蟹钳锤"
+    },
+    {
+      "en": "Cross Chop",
+      "zh": "十字劈"
+    },
+    {
+      "en": "Cross Poison",
+      "zh": "十字毒刃"
+    },
+    {
+      "en": "Crunch",
+      "zh": "咬碎"
+    },
+    {
+      "en": "Crush Claw",
+      "zh": "撕裂爪"
+    },
+    {
+      "en": "Curse",
+      "zh": "诅咒"
+    },
+    {
+      "en": "Dark Pulse",
+      "zh": "恶之波动"
+    },
+    {
+      "en": "Darkest Lariat",
+      "zh": "ＤＤ金勾臂"
+    },
+    {
+      "en": "Dazzling Gleam",
+      "zh": "魔法闪耀"
+    },
+    {
+      "en": "Decorate",
+      "zh": "装饰"
+    },
+    {
+      "en": "Defog",
+      "zh": "清除浓雾"
+    },
+    {
+      "en": "Destiny Bond",
+      "zh": "同命"
+    },
+    {
+      "en": "Detect",
+      "zh": "看穿"
+    },
+    {
+      "en": "Dig",
+      "zh": "挖洞"
+    },
+    {
+      "en": "Dire Claw",
+      "zh": "克命爪"
+    },
+    {
+      "en": "Disable",
+      "zh": "定身法"
+    },
+    {
+      "en": "Discharge",
+      "zh": "放电"
+    },
+    {
+      "en": "Dive",
+      "zh": "潜水"
+    },
+    {
+      "en": "Double Hit",
+      "zh": "二连击"
+    },
+    {
+      "en": "Double Shock",
+      "zh": "电光双击"
+    },
+    {
+      "en": "Double Team",
+      "zh": "影子分身"
+    },
+    {
+      "en": "Double-Edge",
+      "zh": "舍身冲撞"
+    },
+    {
+      "en": "Draco Meteor",
+      "zh": "流星群"
+    },
+    {
+      "en": "Dragon Cheer",
+      "zh": "龙声鼓舞"
+    },
+    {
+      "en": "Dragon Claw",
+      "zh": "龙爪"
+    },
+    {
+      "en": "Dragon Dance",
+      "zh": "龙之舞"
+    },
+    {
+      "en": "Dragon Darts",
+      "zh": "龙箭"
+    },
+    {
+      "en": "Dragon Pulse",
+      "zh": "龙之波动"
+    },
+    {
+      "en": "Dragon Rush",
+      "zh": "龙之俯冲"
+    },
+    {
+      "en": "Dragon Tail",
+      "zh": "龙尾"
+    },
+    {
+      "en": "Drain Punch",
+      "zh": "吸取拳"
+    },
+    {
+      "en": "Draining Kiss",
+      "zh": "吸取之吻"
+    },
+    {
+      "en": "Drill Peck",
+      "zh": "啄钻"
+    },
+    {
+      "en": "Drill Run",
+      "zh": "直冲钻"
+    },
+    {
+      "en": "Drum Beating",
+      "zh": "鼓击"
+    },
+    {
+      "en": "Dual Wingbeat",
+      "zh": "双翼"
+    },
+    {
+      "en": "Dynamic Punch",
+      "zh": "爆裂拳"
+    },
+    {
+      "en": "Earth Power",
+      "zh": "大地之力"
+    },
+    {
+      "en": "Earthquake",
+      "zh": "地震"
+    },
+    {
+      "en": "Eerie Impulse",
+      "zh": "怪异电波"
+    },
+    {
+      "en": "Eerie Spell",
+      "zh": "诡异咒语"
+    },
+    {
+      "en": "Electric Terrain",
+      "zh": "电气场地"
+    },
+    {
+      "en": "Electrify",
+      "zh": "输电"
+    },
+    {
+      "en": "Electro Ball",
+      "zh": "电球"
+    },
+    {
+      "en": "Electro Shot",
+      "zh": "电光束"
+    },
+    {
+      "en": "Electroweb",
+      "zh": "电网"
+    },
+    {
+      "en": "Encore",
+      "zh": "再来一次"
+    },
+    {
+      "en": "Endeavor",
+      "zh": "蛮干"
+    },
+    {
+      "en": "Endure",
+      "zh": "挺住"
+    },
+    {
+      "en": "Energy Ball",
+      "zh": "能量球"
+    },
+    {
+      "en": "Entrainment",
+      "zh": "找伙伴"
+    },
+    {
+      "en": "Eruption",
+      "zh": "喷火"
+    },
+    {
+      "en": "Expanding Force",
+      "zh": "广域战力"
+    },
+    {
+      "en": "Explosion",
+      "zh": "大爆炸"
+    },
+    {
+      "en": "Extrasensory",
+      "zh": "神通力"
+    },
+    {
+      "en": "Extreme Speed",
+      "zh": "神速"
+    },
+    {
+      "en": "Facade",
+      "zh": "硬撑"
+    },
+    {
+      "en": "Fairy Lock",
+      "zh": "妖精之锁"
+    },
+    {
+      "en": "Fake Out",
+      "zh": "击掌奇袭"
+    },
+    {
+      "en": "Fake Tears",
+      "zh": "假哭"
+    },
+    {
+      "en": "Feather Dance",
+      "zh": "羽毛舞"
+    },
+    {
+      "en": "Feint",
+      "zh": "佯攻"
+    },
+    {
+      "en": "Fell Stinger",
+      "zh": "致命针刺"
+    },
+    {
+      "en": "Fickle Beam",
+      "zh": "随机光"
+    },
+    {
+      "en": "Fiery Dance",
+      "zh": "火之舞"
+    },
+    {
+      "en": "Final Gambit",
+      "zh": "搏命"
+    },
+    {
+      "en": "Fire Blast",
+      "zh": "大字爆炎"
+    },
+    {
+      "en": "Fire Fang",
+      "zh": "火焰牙"
+    },
+    {
+      "en": "Fire Lash",
+      "zh": "火焰鞭"
+    },
+    {
+      "en": "Fire Punch",
+      "zh": "火焰拳"
+    },
+    {
+      "en": "Fire Spin",
+      "zh": "火焰旋涡"
+    },
+    {
+      "en": "First Impression",
+      "zh": "迎头一击"
+    },
+    {
+      "en": "Fissure",
+      "zh": "地裂"
+    },
+    {
+      "en": "Flail",
+      "zh": "抓狂"
+    },
+    {
+      "en": "Flame Charge",
+      "zh": "蓄能焰袭"
+    },
+    {
+      "en": "Flamethrower",
+      "zh": "喷射火焰"
+    },
+    {
+      "en": "Flare Blitz",
+      "zh": "闪焰冲锋"
+    },
+    {
+      "en": "Flash Cannon",
+      "zh": "加农光炮"
+    },
+    {
+      "en": "Flatter",
+      "zh": "吹捧"
+    },
+    {
+      "en": "Fling",
+      "zh": "投掷"
+    },
+    {
+      "en": "Flip Turn",
+      "zh": "快速折返"
+    },
+    {
+      "en": "Flower Trick",
+      "zh": "千变万花"
+    },
+    {
+      "en": "Fly",
+      "zh": "飞翔"
+    },
+    {
+      "en": "Flying Press",
+      "zh": "飞身重压"
+    },
+    {
+      "en": "Focus Blast",
+      "zh": "真气弹"
+    },
+    {
+      "en": "Focus Energy",
+      "zh": "聚气"
+    },
+    {
+      "en": "Focus Punch",
+      "zh": "真气拳"
+    },
+    {
+      "en": "Follow Me",
+      "zh": "看我嘛"
+    },
+    {
+      "en": "Forest's Curse",
+      "zh": "森林诅咒"
+    },
+    {
+      "en": "Foul Play",
+      "zh": "欺诈"
+    },
+    {
+      "en": "Freeze-Dry",
+      "zh": "冷冻干燥"
+    },
+    {
+      "en": "Frenzy Plant",
+      "zh": "疯狂植物"
+    },
+    {
+      "en": "Frost Breath",
+      "zh": "冰息"
+    },
+    {
+      "en": "Future Sight",
+      "zh": "预知未来"
+    },
+    {
+      "en": "Gastro Acid",
+      "zh": "胃液"
+    },
+    {
+      "en": "Giga Drain",
+      "zh": "终极吸取"
+    },
+    {
+      "en": "Giga Impact",
+      "zh": "终极冲击"
+    },
+    {
+      "en": "Gigaton Hammer",
+      "zh": "巨力锤"
+    },
+    {
+      "en": "Glaive Rush",
+      "zh": "巨剑突击"
+    },
+    {
+      "en": "Glare",
+      "zh": "大蛇瞪眼"
+    },
+    {
+      "en": "Grass Knot",
+      "zh": "打草结"
+    },
+    {
+      "en": "Grassy Glide",
+      "zh": "青草滑梯"
+    },
+    {
+      "en": "Grassy Terrain",
+      "zh": "青草场地"
+    },
+    {
+      "en": "Grav Apple",
+      "zh": "万有引力"
+    },
+    {
+      "en": "Gravity",
+      "zh": "重力"
+    },
+    {
+      "en": "Growth",
+      "zh": "生长"
+    },
+    {
+      "en": "Guard Split",
+      "zh": "防守平分"
+    },
+    {
+      "en": "Guard Swap",
+      "zh": "防守互换"
+    },
+    {
+      "en": "Guillotine",
+      "zh": "断头钳"
+    },
+    {
+      "en": "Gunk Shot",
+      "zh": "垃圾射击"
+    },
+    {
+      "en": "Gyro Ball",
+      "zh": "陀螺球"
+    },
+    {
+      "en": "Hammer Arm",
+      "zh": "臂锤"
+    },
+    {
+      "en": "Hard Press",
+      "zh": "硬压"
+    },
+    {
+      "en": "Haze",
+      "zh": "黑雾"
+    },
+    {
+      "en": "Head Smash",
+      "zh": "双刃头锤"
+    },
+    {
+      "en": "Headlong Rush",
+      "zh": "突飞猛扑"
+    },
+    {
+      "en": "Heal Bell",
+      "zh": "治愈铃声"
+    },
+    {
+      "en": "Heal Pulse",
+      "zh": "治愈波动"
+    },
+    {
+      "en": "Healing Wish",
+      "zh": "治愈之愿"
+    },
+    {
+      "en": "Heat Crash",
+      "zh": "高温重压"
+    },
+    {
+      "en": "Heat Wave",
+      "zh": "热风"
+    },
+    {
+      "en": "Heavy Slam",
+      "zh": "重磅冲撞"
+    },
+    {
+      "en": "Helping Hand",
+      "zh": "帮助"
+    },
+    {
+      "en": "Hex",
+      "zh": "祸不单行"
+    },
+    {
+      "en": "High Horsepower",
+      "zh": "十万马力"
+    },
+    {
+      "en": "High Jump Kick",
+      "zh": "飞膝踢"
+    },
+    {
+      "en": "Horn Drill",
+      "zh": "角钻"
+    },
+    {
+      "en": "Horn Leech",
+      "zh": "木角"
+    },
+    {
+      "en": "Howl",
+      "zh": "长嚎"
+    },
+    {
+      "en": "Hurricane",
+      "zh": "暴风"
+    },
+    {
+      "en": "Hydro Cannon",
+      "zh": "加农水炮"
+    },
+    {
+      "en": "Hydro Pump",
+      "zh": "水炮"
+    },
+    {
+      "en": "Hyper Beam",
+      "zh": "破坏光线"
+    },
+    {
+      "en": "Hyper Voice",
+      "zh": "巨声"
+    },
+    {
+      "en": "Hypnosis",
+      "zh": "催眠术"
+    },
+    {
+      "en": "Ice Beam",
+      "zh": "冰冻光束"
+    },
+    {
+      "en": "Ice Fang",
+      "zh": "冰冻牙"
+    },
+    {
+      "en": "Ice Hammer",
+      "zh": "冰锤"
+    },
+    {
+      "en": "Ice Punch",
+      "zh": "冰冻拳"
+    },
+    {
+      "en": "Ice Shard",
+      "zh": "冰砾"
+    },
+    {
+      "en": "Ice Spinner",
+      "zh": "冰旋"
+    },
+    {
+      "en": "Icicle Crash",
+      "zh": "冰柱坠击"
+    },
+    {
+      "en": "Icicle Spear",
+      "zh": "冰锥"
+    },
+    {
+      "en": "Icy Wind",
+      "zh": "冰冻之风"
+    },
+    {
+      "en": "Imprison",
+      "zh": "封印"
+    },
+    {
+      "en": "Infernal Parade",
+      "zh": "群魔乱舞"
+    },
+    {
+      "en": "Inferno",
+      "zh": "炼狱"
+    },
+    {
+      "en": "Infestation",
+      "zh": "死缠烂打"
+    },
+    {
+      "en": "Ingrain",
+      "zh": "扎根"
+    },
+    {
+      "en": "Instruct",
+      "zh": "号令"
+    },
+    {
+      "en": "Iron Defense",
+      "zh": "铁壁"
+    },
+    {
+      "en": "Iron Head",
+      "zh": "铁头"
+    },
+    {
+      "en": "Iron Tail",
+      "zh": "铁尾"
+    },
+    {
+      "en": "Jaw Lock",
+      "zh": "紧咬不放"
+    },
+    {
+      "en": "Jet Punch",
+      "zh": "喷射拳"
+    },
+    {
+      "en": "King's Shield",
+      "zh": "王者之盾"
+    },
+    {
+      "en": "Knock Off",
+      "zh": "拍落"
+    },
+    {
+      "en": "Kowtow Cleave",
+      "zh": "仆刀"
+    },
+    {
+      "en": "Lash Out",
+      "zh": "泄愤"
+    },
+    {
+      "en": "Last Resort",
+      "zh": "珍藏"
+    },
+    {
+      "en": "Last Respects",
+      "zh": "扫墓"
+    },
+    {
+      "en": "Lava Plume",
+      "zh": "喷烟"
+    },
+    {
+      "en": "Leaf Blade",
+      "zh": "叶刃"
+    },
+    {
+      "en": "Leaf Storm",
+      "zh": "飞叶风暴"
+    },
+    {
+      "en": "Leech Life",
+      "zh": "吸血"
+    },
+    {
+      "en": "Leech Seed",
+      "zh": "寄生种子"
+    },
+    {
+      "en": "Life Dew",
+      "zh": "生命水滴"
+    },
+    {
+      "en": "Light Screen",
+      "zh": "光墙"
+    },
+    {
+      "en": "Light of Ruin",
+      "zh": "破灭之光"
+    },
+    {
+      "en": "Liquidation",
+      "zh": "水流裂破"
+    },
+    {
+      "en": "Lock-On",
+      "zh": "锁定"
+    },
+    {
+      "en": "Low Kick",
+      "zh": "踢倒"
+    },
+    {
+      "en": "Low Sweep",
+      "zh": "下盘踢"
+    },
+    {
+      "en": "Lumina Crash",
+      "zh": "琉光冲激"
+    },
+    {
+      "en": "Lunge",
+      "zh": "猛扑"
+    },
+    {
+      "en": "Mach Punch",
+      "zh": "音速拳"
+    },
+    {
+      "en": "Magic Powder",
+      "zh": "魔法粉"
+    },
+    {
+      "en": "Magic Room",
+      "zh": "魔法空间"
+    },
+    {
+      "en": "Magnet Rise",
+      "zh": "电磁飘浮"
+    },
+    {
+      "en": "Magnetic Flux",
+      "zh": "磁场操控"
+    },
+    {
+      "en": "Make It Rain",
+      "zh": "淘金潮"
+    },
+    {
+      "en": "Matcha Gotcha",
+      "zh": "刷刷茶炮"
+    },
+    {
+      "en": "Mean Look",
+      "zh": "黑色目光"
+    },
+    {
+      "en": "Mega Kick",
+      "zh": "百万吨重踢"
+    },
+    {
+      "en": "Megahorn",
+      "zh": "超级角击"
+    },
+    {
+      "en": "Memento",
+      "zh": "临别礼物"
+    },
+    {
+      "en": "Metal Burst",
+      "zh": "金属爆炸"
+    },
+    {
+      "en": "Metal Sound",
+      "zh": "金属音"
+    },
+    {
+      "en": "Meteor Assault",
+      "zh": "流星突击"
+    },
+    {
+      "en": "Meteor Beam",
+      "zh": "流星光束"
+    },
+    {
+      "en": "Meteor Mash",
+      "zh": "彗星拳"
+    },
+    {
+      "en": "Milk Drink",
+      "zh": "喝牛奶"
+    },
+    {
+      "en": "Minimize",
+      "zh": "变小"
+    },
+    {
+      "en": "Mirror Coat",
+      "zh": "镜面反射"
+    },
+    {
+      "en": "Misty Explosion",
+      "zh": "薄雾炸裂"
+    },
+    {
+      "en": "Misty Terrain",
+      "zh": "薄雾场地"
+    },
+    {
+      "en": "Moonblast",
+      "zh": "月亮之力"
+    },
+    {
+      "en": "Moonlight",
+      "zh": "月光"
+    },
+    {
+      "en": "Morning Sun",
+      "zh": "晨光"
+    },
+    {
+      "en": "Mortal Spin",
+      "zh": "晶光转转"
+    },
+    {
+      "en": "Mountain Gale",
+      "zh": "冰山风"
+    },
+    {
+      "en": "Mud Shot",
+      "zh": "泥巴射击"
+    },
+    {
+      "en": "Mud-Slap",
+      "zh": "掷泥"
+    },
+    {
+      "en": "Muddy Water",
+      "zh": "浊流"
+    },
+    {
+      "en": "Mystical Fire",
+      "zh": "魔法火焰"
+    },
+    {
+      "en": "Nasty Plot",
+      "zh": "诡计"
+    },
+    {
+      "en": "Night Daze",
+      "zh": "暗黑爆破"
+    },
+    {
+      "en": "Night Shade",
+      "zh": "黑夜魔影"
+    },
+    {
+      "en": "Night Slash",
+      "zh": "暗袭要害"
+    },
+    {
+      "en": "No Retreat",
+      "zh": "背水一战"
+    },
+    {
+      "en": "Noble Roar",
+      "zh": "战吼"
+    },
+    {
+      "en": "Nuzzle",
+      "zh": "蹭蹭脸颊"
+    },
+    {
+      "en": "Octolock",
+      "zh": "蛸固"
+    },
+    {
+      "en": "Outrage",
+      "zh": "逆鳞"
+    },
+    {
+      "en": "Overdrive",
+      "zh": "破音"
+    },
+    {
+      "en": "Overheat",
+      "zh": "过热"
+    },
+    {
+      "en": "Pain Split",
+      "zh": "分担痛楚"
+    },
+    {
+      "en": "Parabolic Charge",
+      "zh": "抛物面充电"
+    },
+    {
+      "en": "Parting Shot",
+      "zh": "抛下狠话"
+    },
+    {
+      "en": "Payback",
+      "zh": "以牙还牙"
+    },
+    {
+      "en": "Perish Song",
+      "zh": "灭亡之歌"
+    },
+    {
+      "en": "Petal Blizzard",
+      "zh": "落英缤纷"
+    },
+    {
+      "en": "Petal Dance",
+      "zh": "花瓣舞"
+    },
+    {
+      "en": "Phantom Force",
+      "zh": "潜灵奇袭"
+    },
+    {
+      "en": "Pin Missile",
+      "zh": "飞弹针"
+    },
+    {
+      "en": "Play Rough",
+      "zh": "嬉闹"
+    },
+    {
+      "en": "Pluck",
+      "zh": "啄食"
+    },
+    {
+      "en": "Poison Fang",
+      "zh": "剧毒牙"
+    },
+    {
+      "en": "Poison Jab",
+      "zh": "毒击"
+    },
+    {
+      "en": "Poison Powder",
+      "zh": "毒粉"
+    },
+    {
+      "en": "Pollen Puff",
+      "zh": "花粉团"
+    },
+    {
+      "en": "Poltergeist",
+      "zh": "灵骚"
+    },
+    {
+      "en": "Population Bomb",
+      "zh": "鼠数儿"
+    },
+    {
+      "en": "Pounce",
+      "zh": "虫扑"
+    },
+    {
+      "en": "Power Gem",
+      "zh": "力量宝石"
+    },
+    {
+      "en": "Power Shift",
+      "zh": "力量转换"
+    },
+    {
+      "en": "Power Split",
+      "zh": "力量平分"
+    },
+    {
+      "en": "Power Swap",
+      "zh": "力量互换"
+    },
+    {
+      "en": "Power Trick",
+      "zh": "力量戏法"
+    },
+    {
+      "en": "Power Trip",
+      "zh": "嚣张"
+    },
+    {
+      "en": "Power Whip",
+      "zh": "强力鞭打"
+    },
+    {
+      "en": "Protect",
+      "zh": "守住"
+    },
+    {
+      "en": "Psych Up",
+      "zh": "自我暗示"
+    },
+    {
+      "en": "Psychic",
+      "zh": "精神强念"
+    },
+    {
+      "en": "Psychic Fangs",
+      "zh": "精神之牙"
+    },
+    {
+      "en": "Psychic Noise",
+      "zh": "精神噪音"
+    },
+    {
+      "en": "Psychic Terrain",
+      "zh": "精神场地"
+    },
+    {
+      "en": "Psycho Cut",
+      "zh": "精神利刃"
+    },
+    {
+      "en": "Psyshield Bash",
+      "zh": "屏障猛攻"
+    },
+    {
+      "en": "Psyshock",
+      "zh": "精神冲击"
+    },
+    {
+      "en": "Pyro Ball",
+      "zh": "火焰球"
+    },
+    {
+      "en": "Quash",
+      "zh": "延后"
+    },
+    {
+      "en": "Quick Attack",
+      "zh": "电光一闪"
+    },
+    {
+      "en": "Quick Guard",
+      "zh": "快速防守"
+    },
+    {
+      "en": "Quiver Dance",
+      "zh": "蝶舞"
+    },
+    {
+      "en": "Rage Fist",
+      "zh": "愤怒之拳"
+    },
+    {
+      "en": "Rage Powder",
+      "zh": "愤怒粉"
+    },
+    {
+      "en": "Raging Bull",
+      "zh": "怒牛"
+    },
+    {
+      "en": "Raging Fury",
+      "zh": "大愤慨"
+    },
+    {
+      "en": "Rain Dance",
+      "zh": "求雨"
+    },
+    {
+      "en": "Rapid Spin",
+      "zh": "高速旋转"
+    },
+    {
+      "en": "Razor Shell",
+      "zh": "贝壳刃"
+    },
+    {
+      "en": "Recover",
+      "zh": "自我再生"
+    },
+    {
+      "en": "Recycle",
+      "zh": "回收利用"
+    },
+    {
+      "en": "Reflect",
+      "zh": "反射壁"
+    },
+    {
+      "en": "Reflect Type",
+      "zh": "镜面属性"
+    },
+    {
+      "en": "Rest",
+      "zh": "睡觉"
+    },
+    {
+      "en": "Reversal",
+      "zh": "起死回生"
+    },
+    {
+      "en": "Revival Blessing",
+      "zh": "复生祈祷"
+    },
+    {
+      "en": "Rising Voltage",
+      "zh": "电力上升"
+    },
+    {
+      "en": "Roar",
+      "zh": "吼叫"
+    },
+    {
+      "en": "Rock Blast",
+      "zh": "岩石爆击"
+    },
+    {
+      "en": "Rock Polish",
+      "zh": "岩石打磨"
+    },
+    {
+      "en": "Rock Slide",
+      "zh": "岩崩"
+    },
+    {
+      "en": "Rock Tomb",
+      "zh": "岩石封锁"
+    },
+    {
+      "en": "Rock Wrecker",
+      "zh": "岩石炮"
+    },
+    {
+      "en": "Role Play",
+      "zh": "扮演"
+    },
+    {
+      "en": "Roost",
+      "zh": "羽栖"
+    },
+    {
+      "en": "Round",
+      "zh": "轮唱"
+    },
+    {
+      "en": "Sacred Sword",
+      "zh": "圣剑"
+    },
+    {
+      "en": "Safeguard",
+      "zh": "神秘守护"
+    },
+    {
+      "en": "Salt Cure",
+      "zh": "盐腌"
+    },
+    {
+      "en": "Sand Tomb",
+      "zh": "流沙地狱"
+    },
+    {
+      "en": "Sandstorm",
+      "zh": "沙暴"
+    },
+    {
+      "en": "Scald",
+      "zh": "热水"
+    },
+    {
+      "en": "Scale Shot",
+      "zh": "鳞射"
+    },
+    {
+      "en": "Scary Face",
+      "zh": "鬼面"
+    },
+    {
+      "en": "Scorching Sands",
+      "zh": "热沙大地"
+    },
+    {
+      "en": "Screech",
+      "zh": "刺耳声"
+    },
+    {
+      "en": "Seed Bomb",
+      "zh": "种子炸弹"
+    },
+    {
+      "en": "Seismic Toss",
+      "zh": "地球上投"
+    },
+    {
+      "en": "Self-Destruct",
+      "zh": "自爆"
+    },
+    {
+      "en": "Shadow Ball",
+      "zh": "暗影球"
+    },
+    {
+      "en": "Shadow Claw",
+      "zh": "暗影爪"
+    },
+    {
+      "en": "Shadow Punch",
+      "zh": "暗影拳"
+    },
+    {
+      "en": "Shadow Sneak",
+      "zh": "影子偷袭"
+    },
+    {
+      "en": "Shed Tail",
+      "zh": "断尾"
+    },
+    {
+      "en": "Sheer Cold",
+      "zh": "绝对零度"
+    },
+    {
+      "en": "Shell Side Arm",
+      "zh": "臂贝武器"
+    },
+    {
+      "en": "Shell Smash",
+      "zh": "破壳"
+    },
+    {
+      "en": "Shelter",
+      "zh": "闭关"
+    },
+    {
+      "en": "Shift Gear",
+      "zh": "换档"
+    },
+    {
+      "en": "Simple Beam",
+      "zh": "单纯光束"
+    },
+    {
+      "en": "Sing",
+      "zh": "唱歌"
+    },
+    {
+      "en": "Skill Swap",
+      "zh": "特性互换"
+    },
+    {
+      "en": "Skitter Smack",
+      "zh": "爬击"
+    },
+    {
+      "en": "Sky Attack",
+      "zh": "神鸟猛击"
+    },
+    {
+      "en": "Slack Off",
+      "zh": "偷懒"
+    },
+    {
+      "en": "Slash",
+      "zh": "劈开"
+    },
+    {
+      "en": "Sleep Powder",
+      "zh": "催眠粉"
+    },
+    {
+      "en": "Sleep Talk",
+      "zh": "梦话"
+    },
+    {
+      "en": "Sludge Bomb",
+      "zh": "污泥炸弹"
+    },
+    {
+      "en": "Sludge Wave",
+      "zh": "污泥波"
+    },
+    {
+      "en": "Smack Down",
+      "zh": "击落"
+    },
+    {
+      "en": "Smart Strike",
+      "zh": "修长之角"
+    },
+    {
+      "en": "Snap Trap",
+      "zh": "捕兽夹"
+    },
+    {
+      "en": "Snarl",
+      "zh": "大声咆哮"
+    },
+    {
+      "en": "Snipe Shot",
+      "zh": "狙击"
+    },
+    {
+      "en": "Snore",
+      "zh": "打鼾"
+    },
+    {
+      "en": "Snowscape",
+      "zh": "雪景"
+    },
+    {
+      "en": "Soak",
+      "zh": "浸水"
+    },
+    {
+      "en": "Soft-Boiled",
+      "zh": "生蛋"
+    },
+    {
+      "en": "Solar Beam",
+      "zh": "日光束"
+    },
+    {
+      "en": "Solar Blade",
+      "zh": "日光刃"
+    },
+    {
+      "en": "Sparkling Aria",
+      "zh": "泡影的咏叹调"
+    },
+    {
+      "en": "Speed Swap",
+      "zh": "速度互换"
+    },
+    {
+      "en": "Spicy Extract",
+      "zh": "辣椒精华"
+    },
+    {
+      "en": "Spikes",
+      "zh": "撒菱"
+    },
+    {
+      "en": "Spiky Shield",
+      "zh": "尖刺防守"
+    },
+    {
+      "en": "Spirit Break",
+      "zh": "灵魂冲击"
+    },
+    {
+      "en": "Spirit Shackle",
+      "zh": "缝影"
+    },
+    {
+      "en": "Spit Up",
+      "zh": "喷出"
+    },
+    {
+      "en": "Spite",
+      "zh": "怨恨"
+    },
+    {
+      "en": "Spore",
+      "zh": "蘑菇孢子"
+    },
+    {
+      "en": "Stealth Rock",
+      "zh": "隐形岩"
+    },
+    {
+      "en": "Steel Beam",
+      "zh": "铁蹄光线"
+    },
+    {
+      "en": "Steel Roller",
+      "zh": "铁滚轮"
+    },
+    {
+      "en": "Steel Wing",
+      "zh": "钢翼"
+    },
+    {
+      "en": "Sticky Web",
+      "zh": "黏黏网"
+    },
+    {
+      "en": "Stockpile",
+      "zh": "蓄力"
+    },
+    {
+      "en": "Stomping Tantrum",
+      "zh": "跺脚"
+    },
+    {
+      "en": "Stone Axe",
+      "zh": "岩斧"
+    },
+    {
+      "en": "Stone Edge",
+      "zh": "尖石攻击"
+    },
+    {
+      "en": "Stored Power",
+      "zh": "辅助力量"
+    },
+    {
+      "en": "Storm Throw",
+      "zh": "山岚摔"
+    },
+    {
+      "en": "Strength Sap",
+      "zh": "吸取力量"
+    },
+    {
+      "en": "String Shot",
+      "zh": "吐丝"
+    },
+    {
+      "en": "Struggle",
+      "zh": "挣扎"
+    },
+    {
+      "en": "Struggle Bug",
+      "zh": "虫之抵抗"
+    },
+    {
+      "en": "Stuff Cheeks",
+      "zh": "大快朵颐"
+    },
+    {
+      "en": "Stun Spore",
+      "zh": "麻痹粉"
+    },
+    {
+      "en": "Substitute",
+      "zh": "替身"
+    },
+    {
+      "en": "Sucker Punch",
+      "zh": "突袭"
+    },
+    {
+      "en": "Sunny Day",
+      "zh": "大晴天"
+    },
+    {
+      "en": "Super Fang",
+      "zh": "愤怒门牙"
+    },
+    {
+      "en": "Supercell Slam",
+      "zh": "闪电强袭"
+    },
+    {
+      "en": "Superpower",
+      "zh": "蛮力"
+    },
+    {
+      "en": "Surf",
+      "zh": "冲浪"
+    },
+    {
+      "en": "Swagger",
+      "zh": "虚张声势"
+    },
+    {
+      "en": "Swallow",
+      "zh": "吞下"
+    },
+    {
+      "en": "Sweet Kiss",
+      "zh": "天使之吻"
+    },
+    {
+      "en": "Sweet Scent",
+      "zh": "甜甜香气"
+    },
+    {
+      "en": "Switcheroo",
+      "zh": "掉包"
+    },
+    {
+      "en": "Swords Dance",
+      "zh": "剑舞"
+    },
+    {
+      "en": "Synthesis",
+      "zh": "光合作用"
+    },
+    {
+      "en": "Syrup Bomb",
+      "zh": "糖浆炸弹"
+    },
+    {
+      "en": "Tail Slap",
+      "zh": "扫尾拍打"
+    },
+    {
+      "en": "Tailwind",
+      "zh": "顺风"
+    },
+    {
+      "en": "Taunt",
+      "zh": "挑衅"
+    },
+    {
+      "en": "Tearful Look",
+      "zh": "泪眼汪汪"
+    },
+    {
+      "en": "Teatime",
+      "zh": "茶会"
+    },
+    {
+      "en": "Teeter Dance",
+      "zh": "摇晃舞"
+    },
+    {
+      "en": "Temper Flare",
+      "zh": "豁出去"
+    },
+    {
+      "en": "Terrain Pulse",
+      "zh": "大地波动"
+    },
+    {
+      "en": "Thief",
+      "zh": "小偷"
+    },
+    {
+      "en": "Thrash",
+      "zh": "大闹一番"
+    },
+    {
+      "en": "Throat Chop",
+      "zh": "地狱突刺"
+    },
+    {
+      "en": "Thunder",
+      "zh": "打雷"
+    },
+    {
+      "en": "Thunder Fang",
+      "zh": "雷电牙"
+    },
+    {
+      "en": "Thunder Punch",
+      "zh": "雷电拳"
+    },
+    {
+      "en": "Thunder Wave",
+      "zh": "电磁波"
+    },
+    {
+      "en": "Thunderbolt",
+      "zh": "十万伏特"
+    },
+    {
+      "en": "Tickle",
+      "zh": "挠痒"
+    },
+    {
+      "en": "Tidy Up",
+      "zh": "大扫除"
+    },
+    {
+      "en": "Topsy-Turvy",
+      "zh": "颠倒"
+    },
+    {
+      "en": "Torch Song",
+      "zh": "闪焰高歌"
+    },
+    {
+      "en": "Torment",
+      "zh": "无理取闹"
+    },
+    {
+      "en": "Toxic",
+      "zh": "剧毒"
+    },
+    {
+      "en": "Toxic Spikes",
+      "zh": "毒菱"
+    },
+    {
+      "en": "Toxic Thread",
+      "zh": "毒丝"
+    },
+    {
+      "en": "Trailblaze",
+      "zh": "起草"
+    },
+    {
+      "en": "Transform",
+      "zh": "变身"
+    },
+    {
+      "en": "Tri Attack",
+      "zh": "三重攻击"
+    },
+    {
+      "en": "Trick",
+      "zh": "戏法"
+    },
+    {
+      "en": "Trick Room",
+      "zh": "戏法空间"
+    },
+    {
+      "en": "Trick-or-Treat",
+      "zh": "万圣夜"
+    },
+    {
+      "en": "Triple Arrows",
+      "zh": "三连箭"
+    },
+    {
+      "en": "Triple Axel",
+      "zh": "三旋击"
+    },
+    {
+      "en": "Trop Kick",
+      "zh": "热带踢"
+    },
+    {
+      "en": "Twin Beam",
+      "zh": "双光束"
+    },
+    {
+      "en": "U-turn",
+      "zh": "急速折返"
+    },
+    {
+      "en": "Upper Hand",
+      "zh": "快手还击"
+    },
+    {
+      "en": "Uproar",
+      "zh": "吵闹"
+    },
+    {
+      "en": "Vacuum Wave",
+      "zh": "真空波"
+    },
+    {
+      "en": "Venoshock",
+      "zh": "毒液冲击"
+    },
+    {
+      "en": "Volt Switch",
+      "zh": "伏特替换"
+    },
+    {
+      "en": "Volt Tackle",
+      "zh": "伏特攻击"
+    },
+    {
+      "en": "Water Pulse",
+      "zh": "水之波动"
+    },
+    {
+      "en": "Water Shuriken",
+      "zh": "飞水手里剑"
+    },
+    {
+      "en": "Water Spout",
+      "zh": "喷水"
+    },
+    {
+      "en": "Waterfall",
+      "zh": "攀瀑"
+    },
+    {
+      "en": "Wave Crash",
+      "zh": "波动冲"
+    },
+    {
+      "en": "Weather Ball",
+      "zh": "气象球"
+    },
+    {
+      "en": "Whirlpool",
+      "zh": "潮旋"
+    },
+    {
+      "en": "Whirlwind",
+      "zh": "吹飞"
+    },
+    {
+      "en": "Wide Guard",
+      "zh": "广域防守"
+    },
+    {
+      "en": "Wild Charge",
+      "zh": "疯狂伏特"
+    },
+    {
+      "en": "Will-O-Wisp",
+      "zh": "鬼火"
+    },
+    {
+      "en": "Wish",
+      "zh": "祈愿"
+    },
+    {
+      "en": "Wonder Room",
+      "zh": "奇妙空间"
+    },
+    {
+      "en": "Wood Hammer",
+      "zh": "木槌"
+    },
+    {
+      "en": "Worry Seed",
+      "zh": "烦恼种子"
+    },
+    {
+      "en": "Wrap",
+      "zh": "紧束"
+    },
+    {
+      "en": "X-Scissor",
+      "zh": "十字剪"
+    },
+    {
+      "en": "Yawn",
+      "zh": "哈欠"
+    },
+    {
+      "en": "Zap Cannon",
+      "zh": "电磁炮"
+    },
+    {
+      "en": "Zen Headbutt",
+      "zh": "意念头锤"
+    },
+    {
+      "en": "Zing Zap",
+      "zh": "麻麻刺刺"
+    },
+    {
+      "en": "Anchor Shot",
+      "zh": "掷锚"
+    },
+    {
+      "en": "Astral Barrage",
+      "zh": "星碎"
+    },
+    {
+      "en": "Blood Moon",
+      "zh": "血月"
+    },
+    {
+      "en": "Bolt Beak",
+      "zh": "电喙"
+    },
+    {
+      "en": "Dragon Hammer",
+      "zh": "龙锤"
+    },
+    {
+      "en": "Fishious Rend",
+      "zh": "鳃咬"
+    },
+    {
+      "en": "Gear Grind",
+      "zh": "齿轮飞盘"
+    },
+    {
+      "en": "Hyper Drill",
+      "zh": "强力钻"
+    },
+    {
+      "en": "Metal Claw",
+      "zh": "金属爪"
+    },
+    {
+      "en": "Revelation Dance",
+      "zh": "觉醒之舞"
+    },
+    {
+      "en": "Triple Dive",
+      "zh": "三连钻"
+    }
+  ],
+  "items": [
+    {
+      "en": "Abomasite",
+      "zh": "暴雪王进化石"
+    },
+    {
+      "en": "Absolite",
+      "zh": "阿勃梭鲁进化石"
+    },
+    {
+      "en": "Absolite Z",
+      "zh": "阿勃梭鲁进化石Z"
+    },
+    {
+      "en": "Aerodactylite",
+      "zh": "化石翼龙进化石"
+    },
+    {
+      "en": "Aggronite",
+      "zh": "波士可多拉进化石"
+    },
+    {
+      "en": "Air Balloon",
+      "zh": "气球"
+    },
+    {
+      "en": "Alakazite",
+      "zh": "胡地进化石"
+    },
+    {
+      "en": "Altarianite",
+      "zh": "七夕青鸟进化石"
+    },
+    {
+      "en": "Ampharosite",
+      "zh": "电龙进化石"
+    },
+    {
+      "en": "Aspear Berry",
+      "zh": "利木果"
+    },
+    {
+      "en": "Audinite",
+      "zh": "差不多娃娃进化石"
+    },
+    {
+      "en": "Babiri Berry",
+      "zh": "霹霹果"
+    },
+    {
+      "en": "Banettite",
+      "zh": "诅咒娃娃进化石"
+    },
+    {
+      "en": "Barbaracite",
+      "zh": "龟足巨铠进化石"
+    },
+    {
+      "en": "Baxcalibrite",
+      "zh": "戟脊龙进化石"
+    },
+    {
+      "en": "Beedrillite",
+      "zh": "大针蜂进化石"
+    },
+    {
+      "en": "Big Root",
+      "zh": "大根茎"
+    },
+    {
+      "en": "Binding Band",
+      "zh": "紧绑束带"
+    },
+    {
+      "en": "Black Belt",
+      "zh": "黑带"
+    },
+    {
+      "en": "Black Glasses",
+      "zh": "黑色眼镜"
+    },
+    {
+      "en": "Blastoisinite",
+      "zh": "水箭龟进化石"
+    },
+    {
+      "en": "Blazikenite",
+      "zh": "火焰鸡进化石"
+    },
+    {
+      "en": "Bright Powder",
+      "zh": "光粉"
+    },
+    {
+      "en": "Cameruptite",
+      "zh": "喷火驼进化石"
+    },
+    {
+      "en": "Chandelurite",
+      "zh": "水晶灯火灵进化石"
+    },
+    {
+      "en": "Charcoal",
+      "zh": "木炭"
+    },
+    {
+      "en": "Charizardite X",
+      "zh": "喷火龙进化石Ｘ"
+    },
+    {
+      "en": "Charizardite Y",
+      "zh": "喷火龙进化石Ｙ"
+    },
+    {
+      "en": "Charti Berry",
+      "zh": "草蚕果"
+    },
+    {
+      "en": "Cheri Berry",
+      "zh": "樱子果"
+    },
+    {
+      "en": "Chesnaughtite",
+      "zh": "布里卡隆进化石"
+    },
+    {
+      "en": "Chesto Berry",
+      "zh": "零余果"
+    },
+    {
+      "en": "Chilan Berry",
+      "zh": "灯浆果"
+    },
+    {
+      "en": "Chimechite",
+      "zh": "风铃铃进化石"
+    },
+    {
+      "en": "Choice Scarf",
+      "zh": "讲究围巾"
+    },
+    {
+      "en": "Chople Berry",
+      "zh": "莲蒲果"
+    },
+    {
+      "en": "Clefablite",
+      "zh": "皮可西进化石"
+    },
+    {
+      "en": "Coba Berry",
+      "zh": "棱瓜果"
+    },
+    {
+      "en": "Colbur Berry",
+      "zh": "刺耳果"
+    },
+    {
+      "en": "Crabominite",
+      "zh": "好胜毛蟹进化石"
+    },
+    {
+      "en": "Damp Rock",
+      "zh": "潮湿岩石"
+    },
+    {
+      "en": "Delphoxite",
+      "zh": "妖火红狐进化石"
+    },
+    {
+      "en": "Dragalgite",
+      "zh": "毒藻龙进化石"
+    },
+    {
+      "en": "Dragon Fang",
+      "zh": "龙之牙"
+    },
+    {
+      "en": "Dragoninite",
+      "zh": "快龙进化石"
+    },
+    {
+      "en": "Drampanite",
+      "zh": "老翁龙进化石"
+    },
+    {
+      "en": "Eelektrossite",
+      "zh": "麻麻鳗鱼王进化石"
+    },
+    {
+      "en": "Eject Button",
+      "zh": "逃脱按键"
+    },
+    {
+      "en": "Electric Seed",
+      "zh": "电气种子"
+    },
+    {
+      "en": "Emboarite",
+      "zh": "炎武王进化石"
+    },
+    {
+      "en": "Excadrite",
+      "zh": "龙头地鼠进化石"
+    },
+    {
+      "en": "Expert Belt",
+      "zh": "达人带"
+    },
+    {
+      "en": "Fairy Feather",
+      "zh": "妖精之羽"
+    },
+    {
+      "en": "Falinksite",
+      "zh": "列阵兵进化石"
+    },
+    {
+      "en": "Feraligite",
+      "zh": "大力鳄进化石"
+    },
+    {
+      "en": "Floettite",
+      "zh": "花叶蒂进化石"
+    },
+    {
+      "en": "Focus Band",
+      "zh": "气势头带"
+    },
+    {
+      "en": "Focus Sash",
+      "zh": "气势披带"
+    },
+    {
+      "en": "Froslassite",
+      "zh": "雪妖女进化石"
+    },
+    {
+      "en": "Galladite",
+      "zh": "艾路雷朵进化石"
+    },
+    {
+      "en": "Garchompite",
+      "zh": "烈咬陆鲨进化石"
+    },
+    {
+      "en": "Garchompite Z",
+      "zh": "烈咬陆鲨进化石Z"
+    },
+    {
+      "en": "Gardevoirite",
+      "zh": "沙奈朵进化石"
+    },
+    {
+      "en": "Gengarite",
+      "zh": "耿鬼进化石"
+    },
+    {
+      "en": "Glalitite",
+      "zh": "冰鬼护进化石"
+    },
+    {
+      "en": "Glimmoranite",
+      "zh": "晶光花进化石"
+    },
+    {
+      "en": "Golisopite",
+      "zh": "具甲武者进化石"
+    },
+    {
+      "en": "Golurkite",
+      "zh": "泥偶巨人进化石"
+    },
+    {
+      "en": "Grassy Seed",
+      "zh": "青草种子"
+    },
+    {
+      "en": "Greninjite",
+      "zh": "甲贺忍蛙进化石"
+    },
+    {
+      "en": "Gyaradosite",
+      "zh": "暴鲤龙进化石"
+    },
+    {
+      "en": "Haban Berry",
+      "zh": "莓榴果"
+    },
+    {
+      "en": "Hard Stone",
+      "zh": "硬石头"
+    },
+    {
+      "en": "Hawluchanite",
+      "zh": "摔角鹰人进化石"
+    },
+    {
+      "en": "Heat Rock",
+      "zh": "炽热岩石"
+    },
+    {
+      "en": "Heracronite",
+      "zh": "赫拉克罗斯进化石"
+    },
+    {
+      "en": "Houndoominite",
+      "zh": "黑鲁加进化石"
+    },
+    {
+      "en": "Icy Rock",
+      "zh": "冰冷岩石"
+    },
+    {
+      "en": "Iron Ball",
+      "zh": "黑色铁球"
+    },
+    {
+      "en": "Kangaskhanite",
+      "zh": "袋兽进化石"
+    },
+    {
+      "en": "Kasib Berry",
+      "zh": "佛柑果"
+    },
+    {
+      "en": "Kebia Berry",
+      "zh": "通通果"
+    },
+    {
+      "en": "King's Rock",
+      "zh": "王者之证"
+    },
+    {
+      "en": "Leek",
+      "zh": "大葱"
+    },
+    {
+      "en": "Leftovers",
+      "zh": "吃剩的东西"
+    },
+    {
+      "en": "Leppa Berry",
+      "zh": "苹野果"
+    },
+    {
+      "en": "Life Orb",
+      "zh": "生命宝珠"
+    },
+    {
+      "en": "Light Ball",
+      "zh": "电气球"
+    },
+    {
+      "en": "Light Clay",
+      "zh": "光之黏土"
+    },
+    {
+      "en": "Lopunnite",
+      "zh": "长耳兔进化石"
+    },
+    {
+      "en": "Lucarionite",
+      "zh": "路卡利欧进化石"
+    },
+    {
+      "en": "Lucarionite Z",
+      "zh": "路卡利欧进化石Z"
+    },
+    {
+      "en": "Lum Berry",
+      "zh": "木子果"
+    },
+    {
+      "en": "Magnet",
+      "zh": "磁铁"
+    },
+    {
+      "en": "Malamarite",
+      "zh": "乌贼王进化石"
+    },
+    {
+      "en": "Manectite",
+      "zh": "雷电兽进化石"
+    },
+    {
+      "en": "Mawilite",
+      "zh": "大嘴娃进化石"
+    },
+    {
+      "en": "Medichamite",
+      "zh": "恰雷姆进化石"
+    },
+    {
+      "en": "Meganiumite",
+      "zh": "大竺葵进化石"
+    },
+    {
+      "en": "Mental Herb",
+      "zh": "心灵香草"
+    },
+    {
+      "en": "Meowsticite",
+      "zh": "超能妙喵进化石"
+    },
+    {
+      "en": "Metagrossite",
+      "zh": "巨金怪进化石"
+    },
+    {
+      "en": "Metal Coat",
+      "zh": "金属膜"
+    },
+    {
+      "en": "Metronome",
+      "zh": "节拍器"
+    },
+    {
+      "en": "Miracle Seed",
+      "zh": "奇迹种子"
+    },
+    {
+      "en": "Misty Seed",
+      "zh": "薄雾种子"
+    },
+    {
+      "en": "Muscle Band",
+      "zh": "力量头带"
+    },
+    {
+      "en": "Mystic Water",
+      "zh": "神秘水滴"
+    },
+    {
+      "en": "Never-Melt Ice",
+      "zh": "不融冰"
+    },
+    {
+      "en": "Normal Gem",
+      "zh": "一般宝石"
+    },
+    {
+      "en": "Occa Berry",
+      "zh": "巧可果"
+    },
+    {
+      "en": "Oran Berry",
+      "zh": "橙橙果"
+    },
+    {
+      "en": "Passho Berry",
+      "zh": "千香果"
+    },
+    {
+      "en": "Payapa Berry",
+      "zh": "福禄果"
+    },
+    {
+      "en": "Pecha Berry",
+      "zh": "桃桃果"
+    },
+    {
+      "en": "Persim Berry",
+      "zh": "柿仔果"
+    },
+    {
+      "en": "Pidgeotite",
+      "zh": "大比鸟进化石"
+    },
+    {
+      "en": "Pinsirite",
+      "zh": "凯罗斯进化石"
+    },
+    {
+      "en": "Poison Barb",
+      "zh": "毒针"
+    },
+    {
+      "en": "Psychic Seed",
+      "zh": "精神种子"
+    },
+    {
+      "en": "Pyroarite",
+      "zh": "火炎狮进化石"
+    },
+    {
+      "en": "Quick Claw",
+      "zh": "先制之爪"
+    },
+    {
+      "en": "Raichunite X",
+      "zh": "雷丘进化石X"
+    },
+    {
+      "en": "Raichunite Y",
+      "zh": "雷丘进化石Y"
+    },
+    {
+      "en": "Rawst Berry",
+      "zh": "莓莓果"
+    },
+    {
+      "en": "Red Card",
+      "zh": "红牌"
+    },
+    {
+      "en": "Rindo Berry",
+      "zh": "罗子果"
+    },
+    {
+      "en": "Rocky Helmet",
+      "zh": "凸凸头盔"
+    },
+    {
+      "en": "Roseli Berry",
+      "zh": "洛玫果"
+    },
+    {
+      "en": "Sablenite",
+      "zh": "勾魂眼进化石"
+    },
+    {
+      "en": "Salamencite",
+      "zh": "暴飞龙进化石"
+    },
+    {
+      "en": "Sceptilite",
+      "zh": "蜥蜴王进化石"
+    },
+    {
+      "en": "Scizorite",
+      "zh": "巨钳螳螂进化石"
+    },
+    {
+      "en": "Scolipite",
+      "zh": "蜈蚣王进化石"
+    },
+    {
+      "en": "Scope Lens",
+      "zh": "焦点镜"
+    },
+    {
+      "en": "Scovillainite",
+      "zh": "狠辣椒进化石"
+    },
+    {
+      "en": "Scraftinite",
+      "zh": "头巾混混进化石"
+    },
+    {
+      "en": "Sharp Beak",
+      "zh": "锐利鸟嘴"
+    },
+    {
+      "en": "Sharpedonite",
+      "zh": "巨牙鲨进化石"
+    },
+    {
+      "en": "Shed Shell",
+      "zh": "美丽空壳"
+    },
+    {
+      "en": "Shell Bell",
+      "zh": "贝壳之铃"
+    },
+    {
+      "en": "Shuca Berry",
+      "zh": "腰木果"
+    },
+    {
+      "en": "Silk Scarf",
+      "zh": "丝绸围巾"
+    },
+    {
+      "en": "Silver Powder",
+      "zh": "银粉"
+    },
+    {
+      "en": "Sitrus Berry",
+      "zh": "文柚果"
+    },
+    {
+      "en": "Skarmorite",
+      "zh": "盔甲鸟进化石"
+    },
+    {
+      "en": "Slowbronite",
+      "zh": "呆壳兽进化石"
+    },
+    {
+      "en": "Smooth Rock",
+      "zh": "沙沙岩石"
+    },
+    {
+      "en": "Soft Sand",
+      "zh": "柔软沙子"
+    },
+    {
+      "en": "Spell Tag",
+      "zh": "诅咒之符"
+    },
+    {
+      "en": "Staraptite",
+      "zh": "姆克鹰进化石"
+    },
+    {
+      "en": "Starminite",
+      "zh": "宝石海星进化石"
+    },
+    {
+      "en": "Steelixite",
+      "zh": "大钢蛇进化石"
+    },
+    {
+      "en": "Swampertite",
+      "zh": "巨沼怪进化石"
+    },
+    {
+      "en": "Tanga Berry",
+      "zh": "扁樱果"
+    },
+    {
+      "en": "Terrain Extender",
+      "zh": "大地膜"
+    },
+    {
+      "en": "Twisted Spoon",
+      "zh": "弯曲的汤匙"
+    },
+    {
+      "en": "Tyranitarite",
+      "zh": "班基拉斯进化石"
+    },
+    {
+      "en": "Venusaurite",
+      "zh": "妙蛙花进化石"
+    },
+    {
+      "en": "Victreebelite",
+      "zh": "大食花进化石"
+    },
+    {
+      "en": "Wacan Berry",
+      "zh": "烛木果"
+    },
+    {
+      "en": "White Herb",
+      "zh": "白色香草"
+    },
+    {
+      "en": "Wide Lens",
+      "zh": "广角镜"
+    },
+    {
+      "en": "Wise Glasses",
+      "zh": "博识眼镜"
+    },
+    {
+      "en": "Yache Berry",
+      "zh": "番荔果"
+    },
+    {
+      "en": "Zoom Lens",
+      "zh": "对焦镜"
+    }
+  ],
+  "abilities": [
+    {
+      "en": "Adaptability",
+      "zh": "适应力"
+    },
+    {
+      "en": "Aerilate",
+      "zh": "飞行皮肤"
+    },
+    {
+      "en": "Anticipation",
+      "zh": "危险预知"
+    },
+    {
+      "en": "Aura Guard",
+      "zh": "气场守护"
+    },
+    {
+      "en": "Battle Armor",
+      "zh": "战斗盔甲"
+    },
+    {
+      "en": "Berserk",
+      "zh": "怒火冲天"
+    },
+    {
+      "en": "Blaze",
+      "zh": "猛火"
+    },
+    {
+      "en": "Bulletproof",
+      "zh": "防弹"
+    },
+    {
+      "en": "Cheek Pouch",
+      "zh": "颊囊"
+    },
+    {
+      "en": "Chlorophyll",
+      "zh": "叶绿素"
+    },
+    {
+      "en": "Clear Body",
+      "zh": "恒净之躯"
+    },
+    {
+      "en": "Contrary",
+      "zh": "唱反调"
+    },
+    {
+      "en": "Corrosion",
+      "zh": "腐蚀"
+    },
+    {
+      "en": "Cud Chew",
+      "zh": "反刍"
+    },
+    {
+      "en": "Curious Medicine",
+      "zh": "怪药"
+    },
+    {
+      "en": "Cursed Body",
+      "zh": "诅咒之躯"
+    },
+    {
+      "en": "Cute Charm",
+      "zh": "迷人之躯"
+    },
+    {
+      "en": "Defiant",
+      "zh": "不服输"
+    },
+    {
+      "en": "Disguise",
+      "zh": "画皮"
+    },
+    {
+      "en": "Dragonize",
+      "zh": "龙皮肤"
+    },
+    {
+      "en": "Drought",
+      "zh": "日照"
+    },
+    {
+      "en": "Dry Skin",
+      "zh": "干燥皮肤"
+    },
+    {
+      "en": "Early Bird",
+      "zh": "早起"
+    },
+    {
+      "en": "Earth Eater",
+      "zh": "食土"
+    },
+    {
+      "en": "Eelevate",
+      "zh": "电升"
+    },
+    {
+      "en": "Electric Surge",
+      "zh": "电气制造者"
+    },
+    {
+      "en": "Electromorphosis",
+      "zh": "电力转换"
+    },
+    {
+      "en": "Emergency Exit",
+      "zh": "危险回避"
+    },
+    {
+      "en": "Fairy Aura",
+      "zh": "妖精气场"
+    },
+    {
+      "en": "Filter",
+      "zh": "过滤"
+    },
+    {
+      "en": "Fire Mane",
+      "zh": "火焰鬃"
+    },
+    {
+      "en": "Flame Body",
+      "zh": "火焰之躯"
+    },
+    {
+      "en": "Flash Fire",
+      "zh": "引火"
+    },
+    {
+      "en": "Flower Veil",
+      "zh": "花幕"
+    },
+    {
+      "en": "Forecast",
+      "zh": "阴晴不定"
+    },
+    {
+      "en": "Forewarn",
+      "zh": "预知梦"
+    },
+    {
+      "en": "Friend Guard",
+      "zh": "友情防守"
+    },
+    {
+      "en": "Frisk",
+      "zh": "察觉"
+    },
+    {
+      "en": "Fur Coat",
+      "zh": "毛皮大衣"
+    },
+    {
+      "en": "Gluttony",
+      "zh": "贪吃鬼"
+    },
+    {
+      "en": "Good as Gold",
+      "zh": "黄金之躯"
+    },
+    {
+      "en": "Guts",
+      "zh": "毅力"
+    },
+    {
+      "en": "Healer",
+      "zh": "治愈之心"
+    },
+    {
+      "en": "Hospitality",
+      "zh": "款待"
+    },
+    {
+      "en": "Huge Power",
+      "zh": "大力士"
+    },
+    {
+      "en": "Hunger Switch",
+      "zh": "饱了又饿"
+    },
+    {
+      "en": "Hyper Cutter",
+      "zh": "怪力钳"
+    },
+    {
+      "en": "Ice Body",
+      "zh": "冰冻之躯"
+    },
+    {
+      "en": "Illuminate",
+      "zh": "发光"
+    },
+    {
+      "en": "Illusion",
+      "zh": "幻觉"
+    },
+    {
+      "en": "Immunity",
+      "zh": "免疫"
+    },
+    {
+      "en": "Infiltrator",
+      "zh": "穿透"
+    },
+    {
+      "en": "Innards Out",
+      "zh": "飞出的内在物"
+    },
+    {
+      "en": "Inner Focus",
+      "zh": "精神力"
+    },
+    {
+      "en": "Insomnia",
+      "zh": "不眠"
+    },
+    {
+      "en": "Intimidate",
+      "zh": "威吓"
+    },
+    {
+      "en": "Iron Fist",
+      "zh": "铁拳"
+    },
+    {
+      "en": "Keen Eye",
+      "zh": "锐利目光"
+    },
+    {
+      "en": "Leaf Guard",
+      "zh": "叶子防守"
+    },
+    {
+      "en": "Levitate",
+      "zh": "飘浮"
+    },
+    {
+      "en": "Lightning Rod",
+      "zh": "避雷针"
+    },
+    {
+      "en": "Limber",
+      "zh": "柔软"
+    },
+    {
+      "en": "Liquid Ooze",
+      "zh": "污泥浆"
+    },
+    {
+      "en": "Magic Bounce",
+      "zh": "魔法镜"
+    },
+    {
+      "en": "Magma Armor",
+      "zh": "熔岩铠甲"
+    },
+    {
+      "en": "Marvel Scale",
+      "zh": "神奇鳞片"
+    },
+    {
+      "en": "Mega Launcher",
+      "zh": "超级发射器"
+    },
+    {
+      "en": "Mega Sol",
+      "zh": "超级日光"
+    },
+    {
+      "en": "Merciless",
+      "zh": "不仁不义"
+    },
+    {
+      "en": "Mimicry",
+      "zh": "拟态"
+    },
+    {
+      "en": "Mold Breaker",
+      "zh": "破格"
+    },
+    {
+      "en": "Multiscale",
+      "zh": "多重鳞片"
+    },
+    {
+      "en": "Mummy",
+      "zh": "木乃伊"
+    },
+    {
+      "en": "Natural Cure",
+      "zh": "自然回复"
+    },
+    {
+      "en": "No Guard",
+      "zh": "无防守"
+    },
+    {
+      "en": "Oblivious",
+      "zh": "迟钝"
+    },
+    {
+      "en": "Opportunist",
+      "zh": "跟风"
+    },
+    {
+      "en": "Overcoat",
+      "zh": "防尘"
+    },
+    {
+      "en": "Overgrow",
+      "zh": "茂盛"
+    },
+    {
+      "en": "Own Tempo",
+      "zh": "我行我素"
+    },
+    {
+      "en": "Parental Bond",
+      "zh": "亲子爱"
+    },
+    {
+      "en": "Pickup",
+      "zh": "捡拾"
+    },
+    {
+      "en": "Piercing Drill",
+      "zh": "贯穿钻"
+    },
+    {
+      "en": "Pixilate",
+      "zh": "妖精皮肤"
+    },
+    {
+      "en": "Poison Point",
+      "zh": "毒刺"
+    },
+    {
+      "en": "Prankster",
+      "zh": "恶作剧之心"
+    },
+    {
+      "en": "Pressure",
+      "zh": "压迫感"
+    },
+    {
+      "en": "Protean",
+      "zh": "变幻自如"
+    },
+    {
+      "en": "Punk Rock",
+      "zh": "庞克摇滚"
+    },
+    {
+      "en": "Pure Power",
+      "zh": "瑜伽之力"
+    },
+    {
+      "en": "Purifying Salt",
+      "zh": "洁净之盐"
+    },
+    {
+      "en": "Quick Draw",
+      "zh": "速击"
+    },
+    {
+      "en": "Receiver",
+      "zh": "接球手"
+    },
+    {
+      "en": "Refrigerate",
+      "zh": "冰冻皮肤"
+    },
+    {
+      "en": "Regenerator",
+      "zh": "再生力"
+    },
+    {
+      "en": "Ripen",
+      "zh": "熟成"
+    },
+    {
+      "en": "Rivalry",
+      "zh": "斗争心"
+    },
+    {
+      "en": "Rock Head",
+      "zh": "坚硬脑袋"
+    },
+    {
+      "en": "Rough Skin",
+      "zh": "粗糙皮肤"
+    },
+    {
+      "en": "Run Away",
+      "zh": "逃跑"
+    },
+    {
+      "en": "Sand Force",
+      "zh": "沙之力"
+    },
+    {
+      "en": "Sand Rush",
+      "zh": "拨沙"
+    },
+    {
+      "en": "Sand Spit",
+      "zh": "吐沙"
+    },
+    {
+      "en": "Sand Stream",
+      "zh": "扬沙"
+    },
+    {
+      "en": "Sand Veil",
+      "zh": "沙隐"
+    },
+    {
+      "en": "Sap Sipper",
+      "zh": "食草"
+    },
+    {
+      "en": "Scrappy",
+      "zh": "胆量"
+    },
+    {
+      "en": "Seed Sower",
+      "zh": "掉出种子"
+    },
+    {
+      "en": "Shadow Tag",
+      "zh": "踩影"
+    },
+    {
+      "en": "Sharpness",
+      "zh": "锋锐"
+    },
+    {
+      "en": "Shed Skin",
+      "zh": "蜕皮"
+    },
+    {
+      "en": "Sheer Force",
+      "zh": "强行"
+    },
+    {
+      "en": "Shell Armor",
+      "zh": "硬壳盔甲"
+    },
+    {
+      "en": "Shield Dust",
+      "zh": "鳞粉"
+    },
+    {
+      "en": "Skill Link",
+      "zh": "连续攻击"
+    },
+    {
+      "en": "Snow Cloak",
+      "zh": "雪隐"
+    },
+    {
+      "en": "Snow Warning",
+      "zh": "降雪"
+    },
+    {
+      "en": "Solar Power",
+      "zh": "太阳之力"
+    },
+    {
+      "en": "Soundproof",
+      "zh": "隔音"
+    },
+    {
+      "en": "Speed Boost",
+      "zh": "加速"
+    },
+    {
+      "en": "Spicy Spray",
+      "zh": "辣椒喷发"
+    },
+    {
+      "en": "Stamina",
+      "zh": "持久力"
+    },
+    {
+      "en": "Stance Change",
+      "zh": "战斗切换"
+    },
+    {
+      "en": "Static",
+      "zh": "静电"
+    },
+    {
+      "en": "Steadfast",
+      "zh": "不屈之心"
+    },
+    {
+      "en": "Stench",
+      "zh": "恶臭"
+    },
+    {
+      "en": "Strong Jaw",
+      "zh": "强壮之颚"
+    },
+    {
+      "en": "Sturdy",
+      "zh": "结实"
+    },
+    {
+      "en": "Supersweet Syrup",
+      "zh": "甘露之蜜"
+    },
+    {
+      "en": "Surge Surfer",
+      "zh": "冲浪之尾"
+    },
+    {
+      "en": "Swarm",
+      "zh": "虫之预感"
+    },
+    {
+      "en": "Sweet Veil",
+      "zh": "甜幕"
+    },
+    {
+      "en": "Swift Swim",
+      "zh": "悠游自如"
+    },
+    {
+      "en": "Synchronize",
+      "zh": "同步"
+    },
+    {
+      "en": "Tangled Feet",
+      "zh": "蹒跚"
+    },
+    {
+      "en": "Technician",
+      "zh": "技术高手"
+    },
+    {
+      "en": "Thermal Exchange",
+      "zh": "热交换"
+    },
+    {
+      "en": "Thick Fat",
+      "zh": "厚脂肪"
+    },
+    {
+      "en": "Torrent",
+      "zh": "激流"
+    },
+    {
+      "en": "Tough Claws",
+      "zh": "硬爪"
+    },
+    {
+      "en": "Toxic Debris",
+      "zh": "毒满地"
+    },
+    {
+      "en": "Trace",
+      "zh": "复制"
+    },
+    {
+      "en": "Unseen Fist",
+      "zh": "无形拳"
+    },
+    {
+      "en": "Vital Spirit",
+      "zh": "干劲"
+    },
+    {
+      "en": "Volt Absorb",
+      "zh": "蓄电"
+    },
+    {
+      "en": "Wandering Spirit",
+      "zh": "游魂"
+    },
+    {
+      "en": "Water Absorb",
+      "zh": "储水"
+    },
+    {
+      "en": "Water Bubble",
+      "zh": "水泡"
+    },
+    {
+      "en": "Weak Armor",
+      "zh": "碎裂铠甲"
+    },
+    {
+      "en": "White Smoke",
+      "zh": "白色烟雾"
+    },
+    {
+      "en": "Zero to Hero",
+      "zh": "全能变身"
+    }
+  ]
+}

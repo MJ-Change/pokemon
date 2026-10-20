@@ -1,0 +1,117 @@
+/* 全局样式：仿 PokeCamp 的浅色卡片风格 */
+:root {
+  --pc-primary: #2f6fed;
+  --pc-primary-dark: #1f4fb8;
+  --pc-bg: #f2f5fa;
+  --pc-card: #ffffff;
+  --pc-border: #e3e9f2;
+  --pc-text: #1f2937;
+  --pc-text-sub: #64748b;
+  --pc-attacker: #ef4444;
+  --pc-defender: #3b82f6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  background: var(--pc-bg);
+  color: var(--pc-text);
+  font-family: 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
+  font-size: 14px;
+}
+
+.pc-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.pc-card {
+  background: var(--pc-card);
+  border: 1px solid var(--pc-border);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 1px 3px rgba(31, 41, 55, 0.06);
+}
+
+/* 区块间距：只作用于容器直系子元素（页面各区块之间）。
+   不能用 .pc-card + .pc-card —— grid 里左右两张卡是相邻兄弟，
+   会被顶下去 16px，导致左右卡片不对齐。 */
+.pc-container > * + * {
+  margin-top: 16px;
+}
+
+.pc-card__title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px dashed var(--pc-border);
+}
+
+.pc-card--attacker .pc-card__title {
+  color: var(--pc-attacker);
+}
+
+.pc-card--defender .pc-card__title {
+  color: var(--pc-defender);
+}
+
+.pc-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+@media (max-width: 900px) {
+  .pc-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.pc-form-item {
+  margin-bottom: 10px;
+}
+
+.pc-label {
+  display: block;
+  font-size: 12px;
+  color: var(--pc-text-sub);
+  margin-bottom: 4px;
+}
+
+.pc-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.pc-muted {
+  color: var(--pc-text-sub);
+  font-size: 12px;
+}
+
+.pc-warn {
+  color: #d97706;
+}
+
+.pc-error {
+  color: #dc2626;
+}
+
+.pc-ok {
+  color: #16a34a;
+}

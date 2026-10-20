@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+*.log
+
+# 临时诊断脚本与中间数据文件（不属于项目源码）
+_*.mjs
+/*-zh.json
+/*-names.json
+/zh-dict.json

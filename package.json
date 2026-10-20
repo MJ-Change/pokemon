@@ -1,0 +1,26 @@
+{
+  "name": "pokemon-champions-damage-calc",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "《宝可梦冠军》伤害计算器 + Regulation M-C 规则校验（纯前端）",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "build:data": "node scripts/build-data.mjs"
+  },
+  "dependencies": {
+    "@smogon/calc": "^0.12.0",
+    "element-plus": "^2.8.8",
+    "@element-plus/icons-vue": "^2.3.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.50",
+    "@vitejs/plugin-vue": "^5.2.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vue-tsc": "^2.1.10"
+  }
+}
